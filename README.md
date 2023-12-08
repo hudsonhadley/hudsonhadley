@@ -1,5 +1,5 @@
 - I am a college student at Grove City College pursuing a B.S. in Computer Science.
-- I am familiar with Python, Java, C, and C#.
+- I am familiar with Python, Java, with some experience in C, C#, and JavaScript.
 - Currently looking for internships in or around the Pittsburgh or D.C. areas.
 
 <!---
